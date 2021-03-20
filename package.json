@@ -1,0 +1,17 @@
+{
+  "name": "file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "author": "Serhii Podaiko",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "firebase": "^8.3.1"
+  }
+}

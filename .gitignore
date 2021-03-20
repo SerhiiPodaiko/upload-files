@@ -1,0 +1,80 @@
+######################
+# Node
+######################
+/node/
+node_tmp/
+node_modules/
+npm-debug.log.*
+/.awcache/*
+/.cache-loader/*
+/.cache/
+dist/
+package-lock.json
+
+######################
+# SASS
+######################
+.sass-cache/
+
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+# STS-specific
+/.sts4-cache/*
+
+
+######################
+# IntelliJ
+######################
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+classes/
+out/
+
+######################
+# Visual Studio Code
+######################
+.vscode/
+
+######################
+# Windows
+######################
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+######################
+# Mac OSX
+######################
+.DS_Store
+.svn
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+######################
+# Logs
+######################
+*.log*
+
+######################
+# Others
+######################
+*.class
+*.*~
+*~
+.merge_file*
