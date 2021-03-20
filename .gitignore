@@ -11,6 +11,9 @@ npm-debug.log.*
 dist/
 package-lock.json
 .github/
+.firebaserc
+.firebase
+firebase.json
 
 ######################
 # SASS
