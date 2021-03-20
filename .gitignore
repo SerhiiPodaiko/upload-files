@@ -10,6 +10,7 @@ npm-debug.log.*
 /.cache/
 dist/
 package-lock.json
+.github/
 
 ######################
 # SASS
